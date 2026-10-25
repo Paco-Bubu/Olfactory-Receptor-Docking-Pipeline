@@ -1,0 +1,7 @@
+# Direct imports used by the notebook
+pandas
+matplotlib
+requests
+
+# Notebook runtime
+jupyter
